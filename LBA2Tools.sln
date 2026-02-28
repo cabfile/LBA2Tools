@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.35201.154
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LBA2Tools", "LBA2Tools\LBA2Tools.csproj", "{D700838A-76C2-43B4-85EC-1B6A7279D76B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D700838A-76C2-43B4-85EC-1B6A7279D76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D700838A-76C2-43B4-85EC-1B6A7279D76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D700838A-76C2-43B4-85EC-1B6A7279D76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D700838A-76C2-43B4-85EC-1B6A7279D76B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37054084-3DFF-4FCC-B90E-6145DF9853AE}
+	EndGlobalSection
+EndGlobal
